@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48bbf74a70ad8a74fb1ff8def382b9da, type: 3}
+  m_Name: DefaultPiecesTheme
+  m_EditorClassIdentifier: Chess:Chess:PieceTheme
+  whitePieces:
+    pawn: {fileID: -7175883648180481655, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    rook: {fileID: 8173398461677748687, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    knight: {fileID: 6835435551031213989, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    bishop: {fileID: 8172909128515674591, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    queen: {fileID: 2791275005715278291, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    king: {fileID: 2708479971433820890, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+  blackPieces:
+    pawn: {fileID: 3572948003596259329, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    rook: {fileID: 2503525584721765326, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    knight: {fileID: 6913703981923570542, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    bishop: {fileID: 1369994952686524212, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    queen: {fileID: -2901260011991740928, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
+    king: {fileID: 4754650460865069943, guid: 4e2ba51fa5f979a42a54952700de6871, type: 3}
